@@ -30,7 +30,7 @@ This Python script extracts data about the largest banks from a webpage, transfo
 1. Ensure the exchange rate CSV file is present at the specified path (`./exchange_rate.csv`).
 2. Run the script:
    ```bash
-   python script_name.py
+   python banks_project.py
    ```
 3. Outputs:
    - A CSV file named `Largest_banks_data.csv`.
